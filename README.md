@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming concepts in Python and C++
 - 💞️ I’m looking to collaborate on DSA and ML
 - 📫 How to reach me:   +91 9818773943
--                        saksh1765@gmail.com
+-                        saksham.s2k01@gmail.com
 
 <!---
 saksh2410/saksh2410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
